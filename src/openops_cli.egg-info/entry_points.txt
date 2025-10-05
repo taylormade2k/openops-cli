@@ -1,0 +1,2 @@
+[console_scripts]
+openops = openops_cli.__main__:main

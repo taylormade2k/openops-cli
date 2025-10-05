@@ -1,0 +1,2 @@
+[console_scripts]
+openops-template = openops_module.cli:main

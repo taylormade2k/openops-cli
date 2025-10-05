@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/openops_cli/__init__.py
+src/openops_cli/__main__.py
+src/openops_cli/__main__old.py
+src/openops_cli/new_project.py
+src/openops_cli.egg-info/PKG-INFO
+src/openops_cli.egg-info/SOURCES.txt
+src/openops_cli.egg-info/dependency_links.txt
+src/openops_cli.egg-info/entry_points.txt
+src/openops_cli.egg-info/requires.txt
+src/openops_cli.egg-info/top_level.txt
